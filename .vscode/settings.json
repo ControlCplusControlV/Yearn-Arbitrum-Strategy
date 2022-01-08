@@ -3,7 +3,7 @@
         "*.yul" : "solidity",
         "*.yulp" : "solidity"
     },
-    "solidity.enabledAsYouTypeCompilationErrorCheck": false, // Most annoying fucking thing
+    "solidity.enabledAsYouTypeCompilationErrorCheck": false, 
     "editor.tabSize" : 4
 
 }
